@@ -1,0 +1,124 @@
+.middle{
+    width: 1440px;
+    height: 734px;
+    box-shadow: 0 0 10px;  
+    margin-top: 24rem;    
+    .middle-main-text>p{
+        color: 
+        rgba(51, 52, 97, 1);
+        font-size: 48px;
+        font-weight: 800;
+        position: absolute;
+        justify-content: center;
+        align-items: center;
+        text-align: left;
+        margin-top: 145px;
+        margin-left: 10rem;
+    }
+    .middle-main-text>b{
+        color: rgba(74, 85, 108, 1);
+        font-size: 17px;
+        font-weight: 400;
+         
+        text-align: left;
+        margin-top: 129px;
+        position: absolute;
+        justify-content: center;
+        align-items: center;
+        margin-left: 400px;
+    }
+    .middle-main-text>span{
+        color: rgba(74, 85, 108, 1);
+        font-size: 17px;
+        font-weight: 400;       
+        text-align: left;
+        margin-top: 240px;
+        position: absolute;
+        justify-content: center;
+        align-items: center;
+        margin-left: 400px;
+    }
+    .first-block-book{
+        width: 380px;
+        height: 328px;
+        box-shadow: 0 0 10px;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        top: 345px;
+        display: flex;
+        left: -50px;
+        .book-text-main>img{
+            margin-left: -10rem;
+            margin-top: -3rem;
+            position: absolute;       
+        }.book-text-main>p{
+            color: 
+            rgba(4, 20, 52, 1);
+            font-size: 24px;
+            font-weight: 700;
+            position: relative;
+            margin-left: 1rem;
+            margin-top: 2rem;
+            position: absolute;
+        }.book-text-main>span{
+            color: 
+            rgba(74, 85, 108, 1);
+            font-size: 18px;
+            font-weight: 400;
+            justify-content: center;
+            margin-top: 5rem;
+            position: relative;
+            display: flex;
+            text-align: left;
+            margin-left: 1rem;
+            
+
+        }
+    }.second-block-massege{
+        width: 380px;
+        height: 328px;
+        box-shadow: 0 0 10px;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        top: 17px;
+        display: flex;
+        left: 2rem;
+        .massege-text-main>img{
+            position: absolute;
+            margin-left: -9rem;
+            margin-top: -3rem;
+        }.massege-text-main>p{
+            color: 
+            rgba(4, 20, 52, 1);
+            font-size: 24px;
+            font-weight: 700;
+            position: absolute;
+            margin-left: -0rem;
+            margin-top: 1.90rem;          
+        }.massege-text-main>span{
+            color: 
+            rgba(74, 85, 108, 1);
+            font-size: 18px;
+            font-weight: 400;
+            justify-content: center;
+            margin-top: 5rem;
+            position: relative;
+            display: flex;
+            text-align: left;
+            
+        }
+    }
+    .thirth-block-people{
+        width: 380px;
+        height: 328px;
+        box-shadow: 0 0 10px;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        bottom: 19.50rem;
+        display: flex;
+        left: 26.50rem;
+    }
+}

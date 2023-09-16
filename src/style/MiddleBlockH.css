@@ -1,0 +1,27 @@
+.middle-block {
+  width: 1440px;
+  height: 879px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(250, 248, 246);
+}
+.middle-block .middle-main-text-block > p {
+  font-size: 48px;
+  color: rgb(51, 52, 97);
+  font-weight: 800;
+  display: flex;
+  position: absolute;
+  text-align: left;
+  margin-top: 8rem;
+  margin-left: 8rem;
+}
+.middle-block .first-mid-block {
+  width: 400px;
+  height: 391px;
+  background-color: rgba(177, 186, 200, 0.12);
+  position: absolute;
+  margin-top: 20rem;
+  margin-left: 8rem;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=MiddleBlockH.css.map */

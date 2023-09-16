@@ -1,0 +1,46 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.link {
+  display: inline-flex;
+  justify-content: center;
+  gap: 10rem;
+  width: 1440px;
+  height: 60px;
+  box-shadow: 0 0 10px;
+}
+.link .link-menu > p {
+  display: inline-flex;
+  gap: 3rem;
+  float: right;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  font-size: 18px;
+  font-weight: 400;
+  color: gray;
+}
+.link .link-img > img {
+  position: absolute;
+  margin-left: -40rem;
+  float: left;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  top: 1rem;
+}
+.link .link-button > button {
+  width: 193px;
+  height: 40px;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  background-color: rgb(32, 173, 150);
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}/*# sourceMappingURL=header.css.map */
